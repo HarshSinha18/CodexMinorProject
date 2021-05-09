@@ -28,6 +28,7 @@ opt = sc.nextInt();
 if(opt<=0)
 System.out.println("Enter Valid Number ");
 System.out.println();
+opt = sc.nextInt();
 switch(opt){
 case 1:
 System.out.println("Your Current Balance is : "+current_balance+" Rs ");
