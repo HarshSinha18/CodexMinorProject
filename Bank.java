@@ -24,7 +24,7 @@ System.out.println();
 if(opt>=6 )
 System.out.println("Enter Valid Number ");            
 System.out.println();
-//opt = sc.nextInt();
+opt = sc.nextInt();
 if(opt<=0)
 System.out.println("Enter Valid Number ");
 System.out.println();
