@@ -49,6 +49,6 @@ public class KidsSection extends JFrame implements ActionListener{
         JOptionPane.showMessageDialog(this,msg+"Total: "+amount);  
     }  
     public static void main(String[] args) {  
-        new KidsSection();  
+        // new KidsSection();  
     }  
 }
